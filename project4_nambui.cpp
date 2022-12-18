@@ -42,7 +42,7 @@ int main()
 {
     //Opening input and output files
     ifstream inputFile;
-    inputFile.open("input.txt");
+    inputFile.open("P4Test.txt");
     ofstream outputFile;
     outputFile.open("output.txt");
 
